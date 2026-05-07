@@ -7,4 +7,4 @@ set in atlantis, you explore throughout and find various secrets and items to ai
 ## credits
 wyv - maintainter, assistant dev \
 plasmahd2 - lead dev \
-eric20q0 - playtester, sprite / vfx/ gfx artist, contributor
+eric20q0 - playtester, sprite / vfx/ sfx / gfx artist, contributor
